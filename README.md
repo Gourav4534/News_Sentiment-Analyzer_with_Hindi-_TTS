@@ -3,7 +3,6 @@
 ## Project Overview
 This project is a **News Sentiment Analyzer with Hindi Text-to-Speech (TTS)** developed as an assignment submission. It fetches recent news articles about a specified company from Google News RSS, processes them to extract summaries, analyzes their sentiment (Positive, Negative, Neutral), identifies key topics, performs a comparative analysis, and generates a Hindi audio summary. Built using **Streamlit** for the frontend and **FastAPI** for the backend, this tool demonstrates web scraping, natural language processing (NLP), and text-to-speech capabilities.
 
-The project is hosted on GitHub at: [https://github.com/Gourav4534/News_Sentiment-Analyzer_with_Hindi-_TTS](https://github.com/Gourav4534/News_Sentiment-Analyzer_with_Hindi-_TTS).
 
 ## Features
 - **News Fetching**: Retrieves up to 10 recent articles from Google News RSS based on a company name.
@@ -59,4 +58,5 @@ Follow these steps to run the project locally:
 - Results are generated dynamically based on real-time news data.
 
 # Author 
-Gourav (GitHub: Gourav4534)
+Gourav Yadav ([GitHub](https://github.com/Gourav4534))
+
