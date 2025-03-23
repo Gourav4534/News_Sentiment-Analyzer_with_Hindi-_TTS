@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+nltk
+transformers
+torch
+gTTS
+streamlit
+fastapi
+uvicorn
+python-multipart
+lxml

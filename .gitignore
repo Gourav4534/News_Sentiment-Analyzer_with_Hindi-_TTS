@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Log files
+*.log
+
+# Temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Audio output
+output.mp3
+
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
